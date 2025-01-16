@@ -318,7 +318,7 @@ footer {
     width: 1400px;
     margin: 0 auto;
     margin-top: 76px;
-    margin-left: 125px;
+    padding-left: 125px;
 
     background-color: #ffffff;
     border-radius: 30px;
