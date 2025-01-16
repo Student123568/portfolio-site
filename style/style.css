@@ -1,11 +1,16 @@
 html,
-body, main, div, p, a {
+body, main, div, p, a, header, footer {
 
     color: #ffffff;
     font-family: "IBM Plex Mono", "Manrope" ,sans-serif;
     font-weight: 400;
     letter-spacing: -0.03em; 
 
+}
+
+body {
+    width: 1400px;
+    margin: 0 auto;
 }
 
 h1,
@@ -274,7 +279,6 @@ ul:last-child {
     width: 1400px;
     height: 717px;
     margin: 0 auto;
-    padding-left: 0 120px 0 125px;
 
     background-color: black;
 }
